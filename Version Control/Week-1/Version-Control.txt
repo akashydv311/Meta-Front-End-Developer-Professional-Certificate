@@ -1,0 +1,31 @@
+
+Types of Version controle System
+
+* Subversion
+* Perforce
+* AWS Code Commit
+* Mercurial
+* Git
+
+
+
+Version Controle can be categroysed into 2 parts
+
+* Centralized Version System ( Client Server )
+* Distributed Version System ( server - server )
+
+
+
+CVS Example
+
+* Concurrent Versions System
+* Subversion
+
+DVS Example
+
+* Git
+* Mercurial
+
+
+
+
