@@ -1,0 +1,5 @@
+total 5
+drwxr-xr-x 1 AkashYadav 197609  0 Jul 28 19:52 ./
+drwxr-xr-x 1 AkashYadav 197609  0 Jul 28 19:47 ../
+-rw-r--r-- 1 AkashYadav 197609 33 Jul 28 19:48 input.txt
+-rw-r--r-- 1 AkashYadav 197609  0 Jul 28 19:52 output.txt
