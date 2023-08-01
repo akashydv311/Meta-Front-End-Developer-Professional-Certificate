@@ -1,2 +1,1 @@
-Hello, from main branch...
-Here are example.
+Hello, from main branch!
